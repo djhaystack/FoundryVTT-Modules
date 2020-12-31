@@ -5,7 +5,5 @@
   "author": "honeybadger",
   "version": "1.0.2",
   "minimumCoreVersion": "0.7.0"
-  "scripts": [
-  "manualinitiatives.js"
-]
+  "scripts": ["./manualinitiatives.js"]
 }

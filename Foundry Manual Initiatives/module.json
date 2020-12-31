@@ -1,0 +1,11 @@
+{
+  "name": "manual-initiatives",
+  "title": "Manual Initiatives",
+  "description": "A simple module to make manual initiative entry easier.",
+  "author": "honeybadger",
+  "version": "0.0.2",
+  "minimumCoreVersion": "0.7.0"
+  "scripts": [
+  "manualinitiatves.js"
+]
+}
